@@ -74,7 +74,6 @@ img {
     max-height: auto;
 }
 img:hover {
-    background-color: #121212;
 -webkit-filter: brightness(50%);
     transition: .2s ease
 }
@@ -208,13 +207,6 @@ img:hover {
     opacity:1;
     transition: .2s ease;
 }
-
-
-.txt p {
-    font-size: clamp(14px, 8vw, 300px)
-}
-
-
 
 
 
